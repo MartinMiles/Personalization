@@ -2,7 +2,7 @@ QueryStringCondition.cs - class that implements logic for personalization in Sit
 
 Instructions:
 
-1. Create an item under 
+1. Create an item under/sitecore/system/Settings/Rules/Conditional Renderings/Conditions folder in Sitecore
 2. Enter your class and assembly into Type field and the following value into text field:
 	Where the QueryString Parameter [QueryStringName,,,QueryString Name] has a value that [operatorid,StringOperator,,compares to] [QueryStringValue,,,QueryString Value]
 
